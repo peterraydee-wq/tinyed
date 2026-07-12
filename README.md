@@ -9,6 +9,9 @@
 
 an ultra-minimal, interactive, fullscreen terminal text editor written in C (~1.2 KB source code) for windows terminal environments. it runs natively, doesn't require _any_ dependency (no python, no heavy curses libraries), and uses windows `conio.h` to keep binary and source code size down.
 
+### note
+if you want the minimal version _(1.67 KB)_ its release 1.0.0.
+
 ## features
 - **visual interface**: shows the filename and save status (`[Saved]` / `[Modified]`) at the top, and displays a reverse-video highlight cursor (`\x1b[7m`).
 - **interactive file open & save**: open and Save files directly inside the editor.
