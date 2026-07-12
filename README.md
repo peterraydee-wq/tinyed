@@ -5,7 +5,7 @@
  \_\  \__/_/_//_/\_, /___/\_,_/    /_/ 
                 /___/                  
 ```
-# < tinyEd > - the smallest terminal text editor for windows
+# < tinyEd > - the smallest terminal text editor for windows & linux (in dev.)
 
 an ultra-minimal, interactive, fullscreen terminal text editor written in C (~1.2 KB source code) for windows terminal environments. it runs natively, doesn't require _any_ dependency (no python, no heavy curses libraries), and uses windows `conio.h` to keep binary and source code size down.
 
