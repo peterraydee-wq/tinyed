@@ -35,3 +35,6 @@ run the editor:
 # Or run it with no arguments to start with "untitled.txt"
 .\tinyed.exe
 ```
+
+## important note!
+_this was made with artificial intelligence._
