@@ -21,7 +21,11 @@ if you want the minimal version _(1.67 KB)_ its release 1.0.0.
 ## keyboard shortcuts
 - `ctrl + s`: prompt for target path and Save the file.
 - `ctrl + o`: prompt for file path and Open the file.
+- `ctrl + f`: search (find) for text in the editor (wraps around to top if not found).
 - `left/right arrow keys`: move cursor.
+- `up/down arrow keys`: move cursor between lines while preserving column alignment.
+- `home`: move cursor to the start of the current line.
+- `end`: move cursor to the end of the current line.
 - `backspace`: delete character.
 - `esc`: exit editor.
 
