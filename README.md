@@ -6,7 +6,7 @@
                 /___/                  
 ```
 # < tinyEd > - the smallest terminal text editor for windows & linux (in dev.)
-![size](https://img.shields.io/badge/size-2.75MB-blue)
+![size](https://img.shields.io/badge/size-2.75KB-blue)
 
 an ultra-minimal, interactive, fullscreen terminal text editor written in C (~1.2 KB source code) for windows terminal environments. it runs natively, doesn't require _any_ dependency (no python, no heavy curses libraries), and uses windows `conio.h` to keep binary and source code size down.
 
