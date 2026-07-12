@@ -1,13 +1,13 @@
 ```
-  __    __  _                  __  __  
- / /   / /_(_)__  __ _____ ___/ /  \ \ 
-< <   / __/ / _ \/ // / -_) _  /    > >
- \_\  \__/_/_//_/\_, /\__/\_,_/    /_/ 
-                /___/
+  __    __  _           ____   __  __  
+ / /   / /_(_)__  __ __/ __/__/ /  \ \ 
+< <   / __/ / _ \/ // / _// _  /    > >
+ \_\  \__/_/_//_/\_, /___/\_,_/    /_/ 
+                /___/                  
 ```
-# TinyEd - The Smallest Terminal Text Editor for Windows
+# < tinyEd > - the smallest terminal text editor for windows
 
-A ultra-minimal, interactive, fullscreen terminal text editor written in C (~1.2 KB source code) for Windows terminal environments. It runs natively, doesn't require any dependency (no python, no heavy curses libraries), and uses Windows `conio.h` to keep binary and source code size down.
+an ultra-minimal, interactive, fullscreen terminal text editor written in C (~1.2 KB source code) for Windows terminal environments. It runs natively, doesn't require /any/ dependency (no python, no heavy curses libraries), and uses Windows `conio.h` to keep binary and source code size down.
 
 ## Features
 - **Visual Interface**: Shows the filename and save status (`[Saved]` / `[Modified]`) at the top, and displays a reverse-video highlight cursor (`\x1b[7m`).
